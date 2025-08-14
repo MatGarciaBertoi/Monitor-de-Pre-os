@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import os
 import plotly.express as px # Importamos a nova biblioteca
+import sqlite3
 
 # --- Configuração da Página ---
 st.set_page_config(layout="wide", page_title="Dashboard de Preços")
@@ -12,15 +13,18 @@ st.write("Esta aplicação exibe o histórico de preços coletado pelo seu monit
 # --- Carregamento dos Dados ---
 ARQUIVO_DADOS = "historico_precos.csv"
 
-@st.cache_data(ttl=300) # Recarrega os dados a cada 5 minutos
-def carregar_dados():
-    if os.path.exists(ARQUIVO_DADOS):
-        df = pd.read_csv(ARQUIVO_DADOS)
+@st.cache_data(ttl=300)
+def carregar_dados_db():
+    if os.path.exists('precos.db'):
+        conexao = sqlite3.connect('precos.db')
+        # O Pandas lê diretamente de uma query SQL!
+        df = pd.read_sql_query("SELECT * FROM historico", conexao)
+        conexao.close()
         df['data_hora'] = pd.to_datetime(df['data_hora'])
         return df
-    return pd.DataFrame(columns=['data_hora', 'produto', 'preco'])
+    return pd.DataFrame()
 
-df = carregar_dados()
+df = carregar_dados_db()
 
 if df.empty:
     st.warning("Ainda não há dados para exibir. Rode o `monitor.py` para começar a coletar preços.")

@@ -1,3 +1,4 @@
+import sqlite3
 import urllib.parse
 import requests
 from bs4 import BeautifulSoup
@@ -9,6 +10,22 @@ import time
 import json
 import logging
 from dotenv import load_dotenv
+
+# --- Função de Inicializar o banco de dados ---
+def inicializar_db():
+    conexao = sqlite3.connect('precos.db') # Cria o arquivo do banco de dados
+    cursor = conexao.cursor()
+    # Cria a tabela 'historico' se ela não existir
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS historico (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            data_hora TIMESTAMP NOT NULL,
+            produto TEXT NOT NULL,
+            preco REAL NOT NULL
+        )
+    ''')
+    conexao.commit()
+    conexao.close()
 
 # --- CONFIGURAÇÕES E INICIALIZAÇÃO ---
 load_dotenv() # Carrega as variáveis do arquivo .env
@@ -50,7 +67,7 @@ def extrair_dados(url):
     except Exception as e:
         logging.error(f"Erro ao extrair dados da URL {url}: {e}")
         return None, None
-
+"""""
 def salvar_dados(titulo, preco):
     arquivo_csv = 'historico_precos.csv'
     data_hora_atual = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -61,7 +78,16 @@ def salvar_dados(titulo, preco):
     else:
         novo_dado.to_csv(arquivo_csv, mode='a', header=False, index=False, encoding='utf-8')
     logging.info(f"Preço registrado para '{titulo}': R$ {preco:.2f}")
-
+"""
+def salvar_dados_db(titulo, preco):
+    conexao = sqlite3.connect('precos.db')
+    cursor = conexao.cursor()
+    data_hora_atual = datetime.now()
+    cursor.execute("INSERT INTO historico (data_hora, produto, preco) VALUES (?, ?, ?)",
+                (data_hora_atual, titulo, preco))
+    conexao.commit()
+    conexao.close()
+    logging.info(f"Preço registrado no DB para '{titulo}': R$ {preco:.2f}")
 """ -----------FUNÇÃO ANTIGA-------------
 def enviar_alerta_telegram(mensagem):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
