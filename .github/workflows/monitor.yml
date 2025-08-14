@@ -1,0 +1,31 @@
+name: Monitor de Preços Agendado
+on:
+  schedule:
+    # Roda a cada 6 horas. (https://crontab.guru/ para ajuda)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Botão para rodar manualmente no GitHub
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 1. Checkout do Repositório
+        uses: actions/checkout@v3
+
+      - name: 2. Configurar Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 3. Instalar Dependências
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      
+      - name: 4. Executar o Monitor
+        env:
+          # Mapeia os segredos do GitHub para as variáveis de ambiente
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python monitor.py
