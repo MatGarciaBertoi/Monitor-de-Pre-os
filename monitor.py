@@ -33,7 +33,7 @@ class DatabaseManager:
         cursor = self.conexao.cursor()
         data_hora_atual = datetime.now()
         cursor.execute("INSERT INTO historico (data_hora, produto, preco) VALUES (?, ?, ?)",
-                       (data_hora_atual, titulo, preco))
+                    (data_hora_atual, titulo, preco))
         self.conexao.commit()
         logging.info(f"Preço registrado no DB para '{titulo}': R$ {preco:.2f}")
     
@@ -94,11 +94,10 @@ class MercadoLivreScraper:
             return None, None
 
 
-# --- NOVA CLASSE ESPECIALIZADA EM SCRAPING DA AMAZON ---
+# --- SCRAPING DA AMAZON ---
 class AmazonScraper:
     def __init__(self, url):
         self.url = url
-        # Headers mais robustos para simular um navegador real
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
             'Accept-Language': 'en-US,en;q=0.5',
@@ -131,7 +130,7 @@ class AmazonScraper:
             return None, None
 
 
-# --- CLASSE PRINCIPAL, A ORQUESTRADORA (ATUALIZADA) ---
+# --- CLASSE PRINCIPAL, A ORQUESTRADORA  ---
 class PriceMonitor:
     def __init__(self, products_file, db_file):
         load_dotenv()
