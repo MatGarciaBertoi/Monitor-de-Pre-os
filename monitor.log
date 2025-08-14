@@ -89,3 +89,205 @@
 2025-08-13 16:41:30,512 - INFO - Verificando: Teclado Mecanico Gamer
 2025-08-13 16:41:31,101 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
 2025-08-13 16:41:31,942 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 10:54:06,386 - INFO - ================ INICIANDO MONITOR (MODO TESTE) ===============
+2025-08-14 10:54:06,400 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 10:54:06,400 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 10:54:07,043 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 10:54:07,946 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 10:54:17,947 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 10:54:18,432 - ERROR - Erro ao extrair dados da URL https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387: 404 Client Error: Not Found for url: https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387
+2025-08-14 10:54:28,448 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 10:55:28,448 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 10:55:28,448 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 10:55:29,151 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 10:55:30,059 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 10:55:40,060 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 10:55:40,552 - ERROR - Erro ao extrair dados da URL https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387: 404 Client Error: Not Found for url: https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387
+2025-08-14 10:55:50,564 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 10:56:50,565 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 10:56:50,565 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 10:56:51,284 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 10:56:52,127 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 10:57:02,139 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 10:57:02,477 - ERROR - Erro ao extrair dados da URL https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387: 404 Client Error: Not Found for url: https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387
+2025-08-14 10:57:12,479 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 10:58:12,479 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 10:58:12,479 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 10:58:13,046 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 10:58:13,889 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 10:58:23,902 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 10:58:24,328 - ERROR - Erro ao extrair dados da URL https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387: 404 Client Error: Not Found for url: https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387
+2025-08-14 10:58:34,332 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 10:59:34,332 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 10:59:34,332 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 10:59:34,997 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 10:59:35,851 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 10:59:45,855 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 10:59:46,192 - ERROR - Erro ao extrair dados da URL https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387: 404 Client Error: Not Found for url: https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387
+2025-08-14 10:59:56,194 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:00:56,194 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:00:56,194 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:00:57,066 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:00:57,946 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:01:07,957 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:01:08,284 - ERROR - Erro ao extrair dados da URL https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387: 404 Client Error: Not Found for url: https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387
+2025-08-14 11:01:18,289 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:02:18,289 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:02:18,289 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:02:18,985 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:02:19,830 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:02:29,846 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:02:30,177 - ERROR - Erro ao extrair dados da URL https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387: 404 Client Error: Not Found for url: https://www.mercadolivre.com.br/mouse-gamer-logitech-g-series-g203-lightsync-cor-preto/p/MLB15582387
+2025-08-14 11:02:40,178 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:03:40,178 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:03:40,178 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:03:40,761 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:03:41,669 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:05:20,774 - INFO - ================ INICIANDO MONITOR (MODO TESTE) ===============
+2025-08-14 11:05:20,774 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:05:20,774 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:05:21,646 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:05:22,538 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:05:32,538 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:05:33,505 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:05:34,336 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:05:44,338 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:06:44,338 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:06:44,338 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:06:45,001 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:06:45,877 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:06:55,878 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:06:57,146 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:06:57,998 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:07:08,008 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:08:08,009 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:08:08,009 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:08:08,770 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:08:09,642 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:08:19,650 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:08:20,971 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:08:21,824 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:08:31,825 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:09:31,825 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:09:31,826 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:09:32,487 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:09:33,355 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:09:43,365 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:09:44,307 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:09:45,131 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:09:55,141 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:10:55,142 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:10:55,142 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:10:55,710 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:10:56,594 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:11:06,595 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:11:07,656 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:11:08,489 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:11:18,492 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:12:18,492 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:12:18,492 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:12:19,134 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:12:20,019 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:12:30,030 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:12:30,927 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:12:31,759 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:12:41,767 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:13:41,767 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:13:41,767 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:13:42,584 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:13:43,447 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:13:53,447 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:13:54,349 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:13:55,224 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:14:05,236 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:15:05,236 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:15:05,236 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:15:06,132 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:15:06,965 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:15:16,975 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:15:17,926 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:15:18,815 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:15:28,820 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:15:54,717 - INFO - ================ INICIANDO MONITOR (MODO TESTE) ===============
+2025-08-14 11:15:54,733 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:15:54,733 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:15:55,719 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:15:56,581 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:16:06,582 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:16:07,607 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:16:08,431 - INFO - Alerta enviado via Telegram com sucesso.
+2025-08-14 11:16:18,437 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:24:33,921 - INFO - ================ INICIANDO MONITOR (MODO TESTE) ===============
+2025-08-14 11:24:33,921 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:24:33,921 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:24:34,470 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:24:35,353 - INFO - Resposta da API do Telegram: {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+2025-08-14 11:24:35,353 - ERROR - A API do Telegram retornou um erro: Bad Request: chat not found
+2025-08-14 11:24:45,357 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:24:46,290 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:24:47,124 - INFO - Resposta da API do Telegram: {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+2025-08-14 11:24:47,124 - ERROR - A API do Telegram retornou um erro: Bad Request: chat not found
+2025-08-14 11:24:57,126 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:25:57,126 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:25:57,126 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:25:57,772 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:25:58,765 - INFO - Resposta da API do Telegram: {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+2025-08-14 11:25:58,765 - ERROR - A API do Telegram retornou um erro: Bad Request: chat not found
+2025-08-14 11:26:08,777 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:26:09,713 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:26:10,543 - INFO - Resposta da API do Telegram: {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+2025-08-14 11:26:10,543 - ERROR - A API do Telegram retornou um erro: Bad Request: chat not found
+2025-08-14 11:26:20,559 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:27:20,560 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:27:20,560 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:27:21,175 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 11:27:22,004 - INFO - Resposta da API do Telegram: {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+2025-08-14 11:27:22,004 - ERROR - A API do Telegram retornou um erro: Bad Request: chat not found
+2025-08-14 11:27:32,019 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 11:27:32,898 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 11:27:33,743 - INFO - Resposta da API do Telegram: {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+2025-08-14 11:27:33,743 - ERROR - A API do Telegram retornou um erro: Bad Request: chat not found
+2025-08-14 11:27:43,758 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 11:28:43,758 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 11:28:43,758 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 11:28:44,439 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 12:20:59,184 - INFO - ================ INICIANDO MONITOR (MODO TESTE) ===============
+2025-08-14 12:20:59,184 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 12:20:59,184 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 12:21:00,052 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 12:21:00,977 - INFO - Resposta da API do Telegram: {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+2025-08-14 12:21:00,977 - ERROR - A API do Telegram retornou um erro: Bad Request: chat not found
+2025-08-14 12:21:10,979 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 12:21:12,043 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 12:21:12,908 - INFO - Resposta da API do Telegram: {'ok': False, 'error_code': 400, 'description': 'Bad Request: chat not found'}
+2025-08-14 12:21:12,908 - ERROR - A API do Telegram retornou um erro: Bad Request: chat not found
+2025-08-14 12:24:51,265 - INFO - ================ INICIANDO MONITOR (MODO TESTE) ===============
+2025-08-14 12:24:51,265 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 12:24:51,265 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 12:24:51,887 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 12:24:52,684 - INFO - Resposta da API do Telegram: {'ok': True, 'result': {'message_id': 3, 'from': {'id': 8473037500, 'is_bot': True, 'first_name': 'Meu Monitor de Preços', 'username': 'MonitorPreco07Bot'}, 'chat': {'id': 8351923984, 'first_name': 'Matheus', 'last_name': 'Bertoi', 'type': 'private'}, 'date': 1755185005, 'text': '\U0001f6a8 ALERTA DE PREÇO! \U0001f6a8\nProduto: Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática\nPreço Atual: R$ 158.00\nMeta: R$ 180.00\nLink: https://www.mercadolivre.com.br/teclado-gamer-mecnico-blue-switch-led-rgb-usb-computador-notebook-pc-ps4-xbox-cor-preto-digital-informatica/p/MLB51144275', 'entities': [{'offset': 186, 'length': 153, 'type': 'url'}], 'link_preview_options': {'url': 'https://www.mercadolivre.com.br/teclado-gamer-mecnico-blue-switch-led-rgb-usb-computador-notebook-pc-ps4-xbox-cor-preto-digital-informatica/p/MLB51144275'}}}
+2025-08-14 12:24:52,691 - INFO - Alerta processado pelo Telegram com sucesso.
+2025-08-14 12:25:02,692 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 12:25:03,941 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 12:25:04,678 - INFO - Resposta da API do Telegram: {'ok': True, 'result': {'message_id': 4, 'from': {'id': 8473037500, 'is_bot': True, 'first_name': 'Meu Monitor de Preços', 'username': 'MonitorPreco07Bot'}, 'chat': {'id': 8351923984, 'first_name': 'Matheus', 'last_name': 'Bertoi', 'type': 'private'}, 'date': 1755185017, 'text': '\U0001f6a8 ALERTA DE PREÇO! \U0001f6a8\nProduto: Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco\nPreço Atual: R$ 127.00\nMeta: R$ 130.00\nLink: https://www.mercadolivre.com.br/mouse-gamer-logitech-g203-lightsync-rgb-ate-8000-dpi-branco/p/MLB16211423?pdp_filters=item_id%3AMLB1813858187&from=gshop&matt_tool=83591963&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22090193903&matt_ad_group_id=174661984444&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914181354&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB16211423-product&matt_product_partition_id=2389848360605&matt_target_id=pla-2389848360605&cq_src=google_ads&cq_cmp=22090193903&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090193903&gbraid=0AAAAAD93qcBb5fnNND-OwwhSB94imPlqt&gclid=CjwKCAjwkvbEBhApEiwAKUz6-ymQpijvH02aoPkmlIh6S5ZBA0jL7nCWYosmuy3e-lg4uGNDZ6NoKRoCBNIQAvD_BwE', 'entities': [{'offset': 140, 'length': 792, 'type': 'url'}], 'link_preview_options': {'url': 'https://www.mercadolivre.com.br/mouse-gamer-logitech-g203-lightsync-rgb-ate-8000-dpi-branco/p/MLB16211423?pdp_filters=item_id%3AMLB1813858187&from=gshop&matt_tool=83591963&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22090193903&matt_ad_group_id=174661984444&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914181354&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB16211423-product&matt_product_partition_id=2389848360605&matt_target_id=pla-2389848360605&cq_src=google_ads&cq_cmp=22090193903&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090193903&gbraid=0AAAAAD93qcBb5fnNND-OwwhSB94imPlqt&gclid=CjwKCAjwkvbEBhApEiwAKUz6-ymQpijvH02aoPkmlIh6S5ZBA0jL7nCWYosmuy3e-lg4uGNDZ6NoKRoCBNIQAvD_BwE'}}}
+2025-08-14 12:25:04,678 - INFO - Alerta processado pelo Telegram com sucesso.
+2025-08-14 12:25:14,693 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 12:26:14,694 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 12:26:14,694 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 12:26:15,442 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 12:26:16,214 - INFO - Resposta da API do Telegram: {'ok': True, 'result': {'message_id': 5, 'from': {'id': 8473037500, 'is_bot': True, 'first_name': 'Meu Monitor de Preços', 'username': 'MonitorPreco07Bot'}, 'chat': {'id': 8351923984, 'first_name': 'Matheus', 'last_name': 'Bertoi', 'type': 'private'}, 'date': 1755185089, 'text': '\U0001f6a8 ALERTA DE PREÇO! \U0001f6a8\nProduto: Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática\nPreço Atual: R$ 158.00\nMeta: R$ 180.00\nLink: https://www.mercadolivre.com.br/teclado-gamer-mecnico-blue-switch-led-rgb-usb-computador-notebook-pc-ps4-xbox-cor-preto-digital-informatica/p/MLB51144275', 'entities': [{'offset': 186, 'length': 153, 'type': 'url'}], 'link_preview_options': {'url': 'https://www.mercadolivre.com.br/teclado-gamer-mecnico-blue-switch-led-rgb-usb-computador-notebook-pc-ps4-xbox-cor-preto-digital-informatica/p/MLB51144275'}}}
+2025-08-14 12:26:16,214 - INFO - Alerta processado pelo Telegram com sucesso.
+2025-08-14 12:26:26,219 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 12:26:27,170 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 12:26:27,901 - INFO - Resposta da API do Telegram: {'ok': True, 'result': {'message_id': 6, 'from': {'id': 8473037500, 'is_bot': True, 'first_name': 'Meu Monitor de Preços', 'username': 'MonitorPreco07Bot'}, 'chat': {'id': 8351923984, 'first_name': 'Matheus', 'last_name': 'Bertoi', 'type': 'private'}, 'date': 1755185100, 'text': '\U0001f6a8 ALERTA DE PREÇO! \U0001f6a8\nProduto: Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco\nPreço Atual: R$ 127.00\nMeta: R$ 130.00\nLink: https://www.mercadolivre.com.br/mouse-gamer-logitech-g203-lightsync-rgb-ate-8000-dpi-branco/p/MLB16211423?pdp_filters=item_id%3AMLB1813858187&from=gshop&matt_tool=83591963&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22090193903&matt_ad_group_id=174661984444&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914181354&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB16211423-product&matt_product_partition_id=2389848360605&matt_target_id=pla-2389848360605&cq_src=google_ads&cq_cmp=22090193903&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090193903&gbraid=0AAAAAD93qcBb5fnNND-OwwhSB94imPlqt&gclid=CjwKCAjwkvbEBhApEiwAKUz6-ymQpijvH02aoPkmlIh6S5ZBA0jL7nCWYosmuy3e-lg4uGNDZ6NoKRoCBNIQAvD_BwE', 'entities': [{'offset': 140, 'length': 792, 'type': 'url'}], 'link_preview_options': {'url': 'https://www.mercadolivre.com.br/mouse-gamer-logitech-g203-lightsync-rgb-ate-8000-dpi-branco/p/MLB16211423?pdp_filters=item_id%3AMLB1813858187&from=gshop&matt_tool=83591963&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22090193903&matt_ad_group_id=174661984444&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914181354&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB16211423-product&matt_product_partition_id=2389848360605&matt_target_id=pla-2389848360605&cq_src=google_ads&cq_cmp=22090193903&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090193903&gbraid=0AAAAAD93qcBb5fnNND-OwwhSB94imPlqt&gclid=CjwKCAjwkvbEBhApEiwAKUz6-ymQpijvH02aoPkmlIh6S5ZBA0jL7nCWYosmuy3e-lg4uGNDZ6NoKRoCBNIQAvD_BwE'}}}
+2025-08-14 12:26:27,901 - INFO - Alerta processado pelo Telegram com sucesso.
+2025-08-14 12:26:37,903 - INFO - Verificação concluída. Próxima em 60 segundos.
+2025-08-14 12:27:37,904 - INFO - Iniciando nova rodada de verificação...
+2025-08-14 12:27:37,904 - INFO - Verificando: Teclado Mecanico Gamer
+2025-08-14 12:27:38,555 - INFO - Preço registrado para 'Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática': R$ 158.00
+2025-08-14 12:27:39,311 - INFO - Resposta da API do Telegram: {'ok': True, 'result': {'message_id': 7, 'from': {'id': 8473037500, 'is_bot': True, 'first_name': 'Meu Monitor de Preços', 'username': 'MonitorPreco07Bot'}, 'chat': {'id': 8351923984, 'first_name': 'Matheus', 'last_name': 'Bertoi', 'type': 'private'}, 'date': 1755185172, 'text': '\U0001f6a8 ALERTA DE PREÇO! \U0001f6a8\nProduto: Teclado Gamer Mecânico Blue Switch Led Rgb Usb Computador Notebook Pc Ps4 Xbox Cor Preto Digital Informática\nPreço Atual: R$ 158.00\nMeta: R$ 180.00\nLink: https://www.mercadolivre.com.br/teclado-gamer-mecnico-blue-switch-led-rgb-usb-computador-notebook-pc-ps4-xbox-cor-preto-digital-informatica/p/MLB51144275', 'entities': [{'offset': 186, 'length': 153, 'type': 'url'}], 'link_preview_options': {'url': 'https://www.mercadolivre.com.br/teclado-gamer-mecnico-blue-switch-led-rgb-usb-computador-notebook-pc-ps4-xbox-cor-preto-digital-informatica/p/MLB51144275'}}}
+2025-08-14 12:27:39,311 - INFO - Alerta processado pelo Telegram com sucesso.
+2025-08-14 12:27:49,326 - INFO - Verificando: Mouse Gamer Logitech G203
+2025-08-14 12:27:50,498 - INFO - Preço registrado para 'Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco': R$ 127.00
+2025-08-14 12:27:51,241 - INFO - Resposta da API do Telegram: {'ok': True, 'result': {'message_id': 8, 'from': {'id': 8473037500, 'is_bot': True, 'first_name': 'Meu Monitor de Preços', 'username': 'MonitorPreco07Bot'}, 'chat': {'id': 8351923984, 'first_name': 'Matheus', 'last_name': 'Bertoi', 'type': 'private'}, 'date': 1755185184, 'text': '\U0001f6a8 ALERTA DE PREÇO! \U0001f6a8\nProduto: Mouse Gamer Logitech G203 LIGHTSYNC RGB Até 8.000 DPI - Branco\nPreço Atual: R$ 127.00\nMeta: R$ 130.00\nLink: https://www.mercadolivre.com.br/mouse-gamer-logitech-g203-lightsync-rgb-ate-8000-dpi-branco/p/MLB16211423?pdp_filters=item_id%3AMLB1813858187&from=gshop&matt_tool=83591963&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22090193903&matt_ad_group_id=174661984444&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914181354&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB16211423-product&matt_product_partition_id=2389848360605&matt_target_id=pla-2389848360605&cq_src=google_ads&cq_cmp=22090193903&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090193903&gbraid=0AAAAAD93qcBb5fnNND-OwwhSB94imPlqt&gclid=CjwKCAjwkvbEBhApEiwAKUz6-ymQpijvH02aoPkmlIh6S5ZBA0jL7nCWYosmuy3e-lg4uGNDZ6NoKRoCBNIQAvD_BwE', 'entities': [{'offset': 140, 'length': 792, 'type': 'url'}], 'link_preview_options': {'url': 'https://www.mercadolivre.com.br/mouse-gamer-logitech-g203-lightsync-rgb-ate-8000-dpi-branco/p/MLB16211423?pdp_filters=item_id%3AMLB1813858187&from=gshop&matt_tool=83591963&matt_internal_campaign_id=&matt_word=&matt_source=google&matt_campaign_id=22090193903&matt_ad_group_id=174661984444&matt_match_type=&matt_network=g&matt_device=c&matt_creative=727914181354&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735098639&matt_product_id=MLB16211423-product&matt_product_partition_id=2389848360605&matt_target_id=pla-2389848360605&cq_src=google_ads&cq_cmp=22090193903&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22090193903&gbraid=0AAAAAD93qcBb5fnNND-OwwhSB94imPlqt&gclid=CjwKCAjwkvbEBhApEiwAKUz6-ymQpijvH02aoPkmlIh6S5ZBA0jL7nCWYosmuy3e-lg4uGNDZ6NoKRoCBNIQAvD_BwE'}}}
+2025-08-14 12:27:51,241 - INFO - Alerta processado pelo Telegram com sucesso.

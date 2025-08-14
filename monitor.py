@@ -1,4 +1,4 @@
-# Arquivo: monitor.py
+import urllib.parse
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -62,6 +62,7 @@ def salvar_dados(titulo, preco):
         novo_dado.to_csv(arquivo_csv, mode='a', header=False, index=False, encoding='utf-8')
     logging.info(f"Preço registrado para '{titulo}': R$ {preco:.2f}")
 
+""" -----------FUNÇÃO ANTIGA-------------
 def enviar_alerta_telegram(mensagem):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         logging.warning("Credenciais do Telegram não configuradas. Pulando alerta.")
@@ -73,6 +74,32 @@ def enviar_alerta_telegram(mensagem):
         logging.info("Alerta enviado via Telegram com sucesso.")
     except Exception as e:
         logging.error(f"Falha ao enviar alerta via Telegram: {e}")
+"""
+def enviar_alerta_telegram(mensagem):
+    if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
+        logging.warning("Credenciais do Telegram não configuradas. Pulando alerta.")
+        return
+    
+    # NOVO: Codifica a mensagem para ser segura para uma URL
+    mensagem_encodada = urllib.parse.quote_plus(mensagem)
+    
+    url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage?chat_id={TELEGRAM_CHAT_ID}&text={mensagem_encodada}"
+    
+    try:
+        response = requests.get(url)
+        
+        # NOVO: Vamos registrar a resposta completa da API para depuração
+        resposta_api = response.json()
+        logging.info(f"Resposta da API do Telegram: {resposta_api}")
+
+        # Verifica se a resposta da API indica sucesso real
+        if resposta_api.get("ok"):
+            logging.info("Alerta processado pelo Telegram com sucesso.")
+        else:
+            logging.error(f"A API do Telegram retornou um erro: {resposta_api.get('description')}")
+            
+    except Exception as e:
+        logging.error(f"Falha CRÍTICA ao enviar alerta via Telegram: {e}")
 
 # --- LOOP PRINCIPAL ---
 if __name__ == '__main__':
